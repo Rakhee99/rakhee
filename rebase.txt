@@ -1,3 +1,4 @@
 first commit on master branch
 second commit on master branch
 third commit on dummy1 branch
+fourth commit on dummy1 branch
