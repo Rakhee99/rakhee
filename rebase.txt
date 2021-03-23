@@ -4,3 +4,6 @@ third commit on dummy1 branch
 fourth commit on dummy1 branch
 fivth commit on dummy1 branch
 sixth commit is rebasing into master
+
+
+seventh commit on dummy2
