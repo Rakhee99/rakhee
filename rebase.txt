@@ -1,9 +1,13 @@
-first commit on master branch
-second commit on master branch
-third commit on dummy1 branch
-fourth commit on dummy1 branch
-fivth commit on dummy1 branch
-sixth commit is rebasing into master
+	first commit on master branch
+	1
+	second commit on master branch
+	2
+	3 third commit on dummy1 branch
+	4 fourth commit on dummy1 branch
+	fivth commit on dummy1 branch
+	sixth commit is rebasing into master
 
 
-seventh commit on dummy2
+	seventh commit on dummy2
+	8 eigth commit on dummy2
+	
